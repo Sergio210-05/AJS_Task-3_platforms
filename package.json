@@ -1,0 +1,12 @@
+{
+  "name": "@sergio210-05/ajs_task-3_platforms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "git repository": "git@github.com:Sergio210-05/AJS_Task-3_platforms.git",
+  "author": "",
+  "license": "ISC"
+}
